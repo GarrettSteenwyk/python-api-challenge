@@ -1,1 +1,2 @@
 # python-api-challenge
+I am not sure what I should be putting for the WeatherPy portion, but for the VacationPy, I have chosen the specific parameters as those are conditions I find the most appealing. Unfortunately, they are oddly specific, and it may also happen that the current snapshot of the data is not friendly to my accomodations either, so what I have is not useful in the hotel selection.
